@@ -29,6 +29,7 @@ export default defineConfig({
         items: [
           { text: "注册表", link: "/guide/system/registry" },
           { text: "分区与环境变量", link: "/guide/system/disk-management" },
+          { text: "WSL", link: "/guide/system/wsl" },
         ],
       },
       {
