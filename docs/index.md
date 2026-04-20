@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "HowToWin"
-  text: "A Windows User Guide"
-  tagline: My great project tagline
+  text: ""
+  tagline: A Windows User Guide
   actions:
     - theme: brand
       text: 快速开始
@@ -15,10 +15,10 @@ hero:
       link: https://github.com/pixelonetx
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 安装和恢复
+    details: 版本、许可证、激活、重装、PE、更新、备份和恢复。
+  - title: 日常使用
+    details: 账户权限、文件目录、磁盘分区、软件安装位置和卸载。
+  - title: 终端和开发
+    details: PowerShell、PATH、winget、Scoop、WSL、Git、VS Code、C/C++ 和 Python。
 ---
